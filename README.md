@@ -1,6 +1,6 @@
 # Sentiment Analysis of a WhatsApp Chat
 
-This repository contains my Python code for sentiment analysis of WhatsApp chats. 
+Hello! I am Ishan Pandit (rollno: 22b2141), and this repository contains my Python code for sentiment analysis of WhatsApp chats. 
 
 The initial part of my code focuses on preprocessing exported chat data. This includes handling date-time formats and identifying message authors. I defined functions to streamline and simplify this process, ensuring less confusion while reading the code.
 
